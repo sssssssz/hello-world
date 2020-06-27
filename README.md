@@ -5,7 +5,7 @@
 </head>
 <body>
   
-<p>KONO SZ DA!!!</p>
+<p>ヾ(◍°∇°◍)ﾉﾞ</p>
 <p>:)</p>
 
 </body>
